@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Robin&#x27;s Site",
+    "description": "",
+    "home_page_url": "https://robinvdbroeck.github.io/publii_test",
+    "feed_url": "https://robinvdbroeck.github.io/publii_test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Robin"
+    },
+    "items": [
+        {
+            "id": "https://robinvdbroeck.github.io/publii_test/robin.html",
+            "url": "https://robinvdbroeck.github.io/publii_test/robin.html",
+            "title": "Robin",
+            "summary": "I'm the best web developer there is",
+            "content_html": "\n  <p>\n    I'm the best web developer there is\n  </p>",
+            "author": {
+                "name": "Robin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-15T14:05:43+02:00",
+            "date_modified": "2026-05-15T14:05:43+02:00"
+        }
+    ]
+}

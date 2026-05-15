@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Robin&#x27;s Site</title>
+    <link href="https://robinvdbroeck.github.io/publii_test/feed.xml" rel="self" />
+    <link href="https://robinvdbroeck.github.io/publii_test" />
+    <updated>2026-05-15T14:05:43+02:00</updated>
+    <author>
+        <name>Robin</name>
+    </author>
+    <id>https://robinvdbroeck.github.io/publii_test</id>
+
+    <entry>
+        <title>Robin</title>
+        <author>
+            <name>Robin</name>
+        </author>
+        <link href="https://robinvdbroeck.github.io/publii_test/robin.html"/>
+        <id>https://robinvdbroeck.github.io/publii_test/robin.html</id>
+
+        <updated>2026-05-15T14:05:43+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I'm the best web developer there is
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    I'm the best web developer there is
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
